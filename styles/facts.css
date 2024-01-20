@@ -1,5 +1,6 @@
 .banner__wrapper {
   padding-top: 40px;
+  font-family: "LibreBaskerville";
 }
 
 .facts__block {
@@ -10,10 +11,12 @@
   border-bottom: 1px solid #dbd5cf;
   padding-bottom: 5px;
   margin-bottom: 40px;
+  font-size: 30px;
 }
 
 .facts {
   margin-left: 40px;
+  font-family: KdamThmorPro;
 }
 
 .fact {
